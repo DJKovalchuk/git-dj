@@ -4,3 +4,4 @@
 4. Added new Button
 5. Added new Button2
 6. Removed scripts
+7. Added branch NewContacts
